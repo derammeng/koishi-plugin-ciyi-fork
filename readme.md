@@ -1,11 +1,12 @@
 koishi-plugin-ciyi-localization
 ==================
 
-本插件是基于 [koishi-plugin-ciyi](https://github.com/araea/koishi-plugin-ciyi) 的二次开发版本
-[<img alt="github" src="https://img.shields.io/badge/github-araea/ci_yi-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/araea/koishi-plugin-ciyi)
-[<img alt="npm" src="https://img.shields.io/npm/v/koishi-plugin-ciyi.svg?style=for-the-badge&color=fc8d62&logo=npm" height="20">](https://www.npmjs.com/package/koishi-plugin-ciyi)
+[![npm](https://img.shields.io/npm/v/koishi-plugin-ciyi-localization?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-ciyi-localization)
+[![GitHub](https://img.shields.io/github/license/derammeng/koishi-plugin-ciyi-localization?style=flat-square)](https://github.com/derammeng/koishi-plugin-ciyi-localization/blob/main/LICENSE)
 
-Koishi 的词意（猜词游戏）插件。根据词语的含义相似程度，猜测正确的词语。
+Koishi 的词意（猜词游戏）插件 – **本地化增强版**
+
+> 基于 [araea/koishi-plugin-ciyi](https://github.com/araea/koishi-plugin-ciyi) 二次开发，移除了每日限制，改用本地词库，并支持直接发送词语猜词。
 
 ## 使用
 
